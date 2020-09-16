@@ -1,6 +1,6 @@
 # CodeBook
 
-This file shows the description of tidy data that we get after cleaning. The tidy dataset's name is "final_tidy_data.csv"
+This file shows the description of tidy data that we get after cleaning. The tidy dataset's name is "final_tidy_data", with the .csv format and .txt format. 
 
 ## Data description
 The tidy dataset shows the mean value of each measurement, grouped by the column "subject" and "activity". It has 180 observations and 81 variables.
