@@ -90,7 +90,8 @@ The tidy dataset shows the mean value of each measurement, grouped by the column
 
 
 ## The explaination of column "activity" and "subject"
-**activity:** The activity of a person when the specific measurement was taken. Including six kinds of activities:"WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING".
-**suject:**  The subject who performed the activity for each window sample. Its range is from 1 to 30.
+**activity:** The activity of a person when the specific measurement was taken. &nbsp
+Including six kinds of activities:"WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING". &nbsp
+**suject:**  The subject who performed the activity for each window sample. Its range is from 1 to 30. &nbsp
 
 
