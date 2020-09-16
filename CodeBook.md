@@ -1,10 +1,12 @@
-## This file shows the description of tidy data that we get after cleaning. The tidy dataset's name is "final_tidy_data.csv"
+# CodeBook
 
-### Data
+This file shows the description of tidy data that we get after cleaning. The tidy dataset's name is "final_tidy_data.csv"
 
-### Name of variables 
+## Data description
+
+## Name of variables 
 
 
-### The description of column "activity" and "subject"
+## The explaination of column "activity" and "subject"
 
 
