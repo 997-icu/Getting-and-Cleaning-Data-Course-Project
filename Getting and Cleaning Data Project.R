@@ -123,3 +123,7 @@ final_tidy_data <- final_Data %>% group_by(activity,subject) %>% summarise_all(m
 final_tidy_data
 # write the  tidy data into a csv file
 write_csv(final_tidy_data,"final_tidy_data.csv")
+
+#write the tidy data into a txt file
+write.table(final_tidy_data, "final_tidy_data.txt", row.names = FALSE, quote = FALSE)
+write.table(mean_and_std.names,"mean_and_std.txt")
