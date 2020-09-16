@@ -1,8 +1,8 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-*The Getting ang Cleaning Data Project.R shows the procedure of my analysis work.(The annotation I wrote in the file is very informative.)
-*The CodeBook.md describes the variables of the data.(the procedure that I performed to clean up the data is described in README.md)
-*The final_tidy_data.csv shows the final tidy data after cleaning.
+* The Getting ang Cleaning Data Project.R shows the procedure of my analysis work.(The annotation I wrote in the file is very informative.)
+* The CodeBook.md describes the variables of the data.(the procedure that I performed to clean up the data is described in README.md)
+* The final_tidy_data.csv shows the final tidy data after cleaning.
 
 
 
